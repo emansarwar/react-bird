@@ -1,0 +1,11 @@
+.cart-container {
+  width: 20%;
+  position: sticky;
+  left: 5%;
+}
+.team-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  margin-left: auto;
+}

@@ -1,0 +1,9 @@
+.site-header {
+  /* background-image: url("https://www.imagesgoodnight.com/wp-content/uploads/2020/06/village-Images-47-300x204.jpg"); */
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.733);
+  color: #fff;
+}
